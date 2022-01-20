@@ -31,3 +31,6 @@
 ## links
 Github
 https://github.com/rob49157/PWA-text-editor
+
+## heroku
+https://enigmatic-waters-61343.herokuapp.com/ 
