@@ -26,4 +26,8 @@
 
 ## screenshots
 
+![](https://user-images.githubusercontent.com/88434699/150264878-e77f1ef5-0c1d-464e-b0cb-470634ff3924.PNG)
+
 ## links
+Github
+https://github.com/rob49157/PWA-text-editor
