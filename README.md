@@ -2,6 +2,10 @@
  PWA JATE editor.
  a PWA is a website with all the benefits of an app. PWAs give you a faster, more reliable, and more engaging version of your website or eCommerce store. PWAs can do most things that native apps can do, such as operate offline.
 
+ ### Difficulties
+ - The develop folder provided for the homework was giving 'npm errors' when tryng to run the server. In order to fix it , had to delete the develop folder.
+
+
  ##  Back-end Dependecies
   - concurrently: is to unify front-end and back-end packeges 
    - nodemon: Not needed but very usefull in a sense that it updates the script  as you go
